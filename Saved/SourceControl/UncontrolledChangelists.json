@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/joe2/phys/PhysixMiner/Content/NewMap.umap",
 				"E:/Unreal/PhysMiner/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/Unreal/PhysMiner/Content/StarterContent/Blueprints/BP_MineNodeT1.uasset",
 				"E:/Unreal/PhysMiner/Content/_GENERATED/Zacchary/Objects/Stone.uasset",
